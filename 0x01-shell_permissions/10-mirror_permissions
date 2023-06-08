@@ -1,0 +1,4 @@
+#!/bin/bash
+#script to mirror permission
+echo 'sudo chmod --reference=olleh hello'
+#Why?

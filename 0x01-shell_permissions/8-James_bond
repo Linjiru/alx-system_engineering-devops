@@ -1,0 +1,4 @@
+#!/bin/bash
+#Script that sets permission
+echo 'chmod 007 hello'
+#why?

@@ -1,0 +1,4 @@
+#!/bin/bash
+#script that adds execute permission
+echo 'chmod u+x hello'
+#Why?

@@ -1,0 +1,4 @@
+#!/bin/bash
+#Script that prints effective username of te current user
+echo 'id -un'
+#Why?

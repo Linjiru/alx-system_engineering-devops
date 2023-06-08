@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for changing thr group owner
+echo 'chgrp school hello'
+#Why?

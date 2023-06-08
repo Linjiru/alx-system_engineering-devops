@@ -1,0 +1,5 @@
+#!/bin/bash
+#script that changes the owner
+echo 'sudo down betty hello'
+#Why?
+

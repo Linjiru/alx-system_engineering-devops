@@ -1,0 +1,4 @@
+#!/bin/bash
+#Script that sets the mode 
+echo 'chmod -753 hello'
+#Why?

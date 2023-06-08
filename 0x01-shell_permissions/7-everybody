@@ -1,0 +1,5 @@
+#!/bin/bash
+#script that adds execution permission to everyone
+echo 'chmod 111 hello'
+#Why?
+

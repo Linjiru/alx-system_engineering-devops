@@ -1,0 +1,5 @@
+#!/bin/bash
+#Script that creates an empty file
+echo 'touch hello'
+#Why
+

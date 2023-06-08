@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for creating a new directory with permission
+echo 'mkdir -m 751 my_dir'
+#Why?

@@ -1,0 +1,4 @@
+#!/bin/bash
+#Script that adds execute permissions
+echo 'chmod 114 hello'
+#why?

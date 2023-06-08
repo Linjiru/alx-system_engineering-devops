@@ -1,0 +1,4 @@
+#/bin/bash
+#script prints all groups
+echo 'id -G'
+#Why?

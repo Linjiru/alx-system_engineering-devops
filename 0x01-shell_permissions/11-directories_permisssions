@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for subdirectory permission execution
+echo 'chmod 777 ** '
+#Why?
