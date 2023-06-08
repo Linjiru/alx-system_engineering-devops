@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for deleting directory
+echo 'rm -r my_first directory'
+#why?

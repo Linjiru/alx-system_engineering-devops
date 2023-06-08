@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for listing directory content
+echo 'ls'
+#why?

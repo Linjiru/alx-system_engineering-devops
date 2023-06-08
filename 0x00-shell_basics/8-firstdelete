@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for deleting file
+echo 'rm ~/tmp/my_first_directory/betty'
+#why?

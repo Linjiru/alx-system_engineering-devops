@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for listing files digit only
+echo  ls -la ..'
+#why?

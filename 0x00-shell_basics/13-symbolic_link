@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for creating symbolic link
+echo 'ln -s /bin/ls _ls_'
+#why?

@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for creating a directory`
+echo 'mkdir/tmp/my_first_directory'
+#why?

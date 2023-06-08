@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for changing directory to the previous
+echo 'cd -'
+#why?

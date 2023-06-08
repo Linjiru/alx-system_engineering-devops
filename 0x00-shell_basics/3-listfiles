@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for listing files in long format
+echo 'ls -l'
+#why?

@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for copying html files
+echo 'cp -u*.html ..'
+#why?

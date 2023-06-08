@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for listing files
+echo 'ls -l /tmp'
+#why?

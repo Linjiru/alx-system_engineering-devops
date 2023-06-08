@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for moving a file to different directory
+echo 'mv betty /tmp/my_first_directory'
+#why?

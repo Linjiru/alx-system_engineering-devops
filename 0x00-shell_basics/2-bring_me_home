@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for changingworking directory to home
+echo ' cd ..'
+#why?

@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for printing path name
+echo 'pwd'
+#why?

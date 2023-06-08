@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for listing more files
+echo 'ls -la ..'
+#why?
